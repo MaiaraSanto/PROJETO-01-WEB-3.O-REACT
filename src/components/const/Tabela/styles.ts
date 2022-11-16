@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 export const ContainerTabela = styled.div`
-width: 73rem;
-  height: 17rem;
+width: 70rem;
+  height: 18rem;
   background: #27272a;
   border: 2px solid #9d4b00;
   border-radius: 8px;
@@ -27,7 +27,7 @@ width: 73rem;
             margin: 1rem;
 
     li {
-      font-size: 1.4rem;
+      font-size: 1.3rem;
       margin: 0 3rem;
       padding-left: 1rem;
       margin: 0rem;
