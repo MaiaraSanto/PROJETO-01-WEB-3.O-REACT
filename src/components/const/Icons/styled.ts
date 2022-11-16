@@ -6,8 +6,8 @@ export const ContainerIcons = styled.ins`
   background: #27272a;
   border-radius: 0.8rem;
   border: none;
-  padding: 1.9rem;
-  margin-left: 5rem;
+  padding: 1.5rem;
+  margin-left: 3rem;
 
   display: flex;
   justify-content: space-around;
@@ -16,12 +16,12 @@ export const ContainerIcons = styled.ins`
   border: 1px solid #9d4b00;
 
   img {
-    width: 1.6rem;
+    width: 1.5rem;
     height: 1.5rem;
     border-radius: 50%;
   }
   p {
-    font-size: 1.9rem;
+    font-size: 1.2rem;
     color: #ededed;
   }
 `;

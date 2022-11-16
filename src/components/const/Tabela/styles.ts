@@ -1,10 +1,10 @@
 import styled from "styled-components";
 
 export const ContainerTabela = styled.div`
-  width: 80.3rem;
-  height: 25.3rem;
+  width: 53rem;
+  height: 13rem;
   background: #27272a;
-  border: 1px solid #9d4b00;
+  border: 2px solid #9d4b00;
   border-radius: 8px;
   display: flex;
   justify-content: space-around;
