@@ -2,10 +2,10 @@ import styled from "styled-components";
 
 export const ResumoProfissional = styled.h1`
 
-width: 991px;
-height: 90px;
+width: 990px;
+height: 50px;
 left: 325px;
-top: 168px;
+top: 160px;
 
 font-family: 'Inter';
 font-style: normal;
