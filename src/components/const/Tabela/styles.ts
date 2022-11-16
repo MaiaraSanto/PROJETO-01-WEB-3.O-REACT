@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const ContainerTabela = styled.div`
 width: 70rem;
-  height: 18rem;
+  height: 15rem;
   background: #27272a;
   border: 2px solid #9d4b00;
   border-radius: 8px;
@@ -24,13 +24,14 @@ width: 70rem;
             align-items: flex-start
             flex-wrap: wrap
             height: 150px;
-            margin: 1rem;
+            margin: 1rem;         
 
     li {
       font-size: 1.3rem;
       margin: 0 3rem;
       padding-left: 1rem;
       margin: 0rem;
+      
     }
   }
 `;
