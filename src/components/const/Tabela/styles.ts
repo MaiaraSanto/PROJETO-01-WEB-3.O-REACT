@@ -9,7 +9,7 @@ width: 73rem;
   display: flex;
   align-items: center;
   padding: 3rem;
-  margin: 3rem;
+  margin: 2rem;
   justify-content: space-around;
   
 

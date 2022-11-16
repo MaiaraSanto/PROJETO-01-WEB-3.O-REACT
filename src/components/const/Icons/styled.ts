@@ -7,7 +7,7 @@ export const ContainerIcons = styled.ins`
   border-radius: 0.8rem;
   border: none;
   padding: 1.5rem;
-  margin-left: 3rem;
+  margin-left: 5rem;
 
   display: flex;
   justify-content: space-around;
