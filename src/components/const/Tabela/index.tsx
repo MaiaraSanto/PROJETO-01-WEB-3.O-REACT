@@ -4,11 +4,12 @@ export function TechTabela() {
     return (
         <ContainerTabela>
             <ul>
-                <li>Javascript</li><br />
-                <li>React</li><br />
-                <li>Vue Js</li><br />
-                <li>Tailwind CSS</li><br />
+                <li>Javascript</li><br></br>
+                <li>React</li><br></br>
+                <li>Vue Js</li><br></br>
+                <li>Tailwind CSS</li><br></br>
             </ul>
+            <br />
             <ul>
                 <li>Styled Components</li><br />
                 <li>Saas</li><br />
