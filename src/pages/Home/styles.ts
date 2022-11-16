@@ -19,7 +19,7 @@ font-family: 'Inter';
 font-style: normal;
 font-weight: 500;
 font-size: 25px;
-line-height: 120%;
+line-height: 140%;
 font-size: 2.0rem;
 text-align: center;
 

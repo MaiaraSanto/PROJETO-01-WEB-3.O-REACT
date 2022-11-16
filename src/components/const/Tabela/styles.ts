@@ -9,8 +9,9 @@ width: 73rem;
   display: flex;
   align-items: center;
   padding: 3rem;
-  margin: rem;
+  margin: 4rem;
   justify-content: space-around;
+  
 
   ul {
     
