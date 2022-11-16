@@ -4,13 +4,13 @@
 
 </div>
 
-🌐 Trago-lhe aqui três Projetos que faz parte do Módulo Web 3.0 do curso para `Desenvolvedor Full Stack da 
+🌐 Trago-lhe aqui três Projetos que faz parte do Módulo Web 3.0 do curso para `Desenvolvedor Full Stack da Editech StackX`. 
 
-Editech StackX`. O conceito destas aplicações,  serão três  Single Page Aplication, aplicadas em <i>`React`,
- 
- `Angular`,`Vue.js`</i>. Cada uma foi estruturada dentro de suas particularidades e seus conceitos utilizados 
- 
- conforme a demanda dos Frameworks, Bibliotecas e Linguagens manuseados. Estarei apresentando o primeiro Projeto feito em React
+   O conceito destas aplicações,  serão três  Single Page Aplication, aplicadas em <i>`React`,`Angular`,`Vue.js`</i>. 
+
+   Cada uma foi estruturada dentro de suas particularidades e seus conceitos utilizados  conforme a demanda dos Frameworks,
+   
+   Bibliotecas e Linguagens manuseados. Estarei apresentando o primeiro Projeto feito em React
  
  <br>
  
