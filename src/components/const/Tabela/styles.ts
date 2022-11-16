@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const ContainerTabela = styled.div`
-  width: 53rem;
+  width: 73rem;
   height: 13rem;
   background: #27272a;
   border: 2px solid #9d4b00;
