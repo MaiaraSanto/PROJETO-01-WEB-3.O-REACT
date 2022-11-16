@@ -36,7 +36,7 @@ manuseados. Estarei apresentando o primeiro Projeto feito em React
   
   <br>
   
-  # <div align="center">💻 [Clique aqui para acessar o Portal](https://desafiostack-react.netlify.app/)
+  # <div align="center">💻 [Clique aqui para acessar o Porjeto](https://desafiostack-react.netlify.app/)
    
    ***
    
