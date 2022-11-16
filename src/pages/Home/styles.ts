@@ -3,26 +3,26 @@ import styled from "styled-components";
 export const ResumoProfissional = styled.h1`
 
 width: 990px;
-height: 50px;
+height: 40px;
 left: 325px;
-top: 160px;
+top: 150px;
 
 font-family: 'Inter';
 font-style: normal;
-font-weight: 600;
-font-size: 26px;
-line-height: 160%;
-font-size: 2.1rem;
+font-weight: 500;
+font-size: 25px;
+line-height: 150%;
+font-size: 2.0rem;
 /* or 38px */
 
 text-align: center;
 
 color: #FFFFFF;
 
-margin: 84px 0 24px;
-font-weight: 700;
+margin: 74px 0 14px;
+font-weight: 500;
 
-margin: 5rem;
+margin: 4rem;
 
 `;
 export const Container_content = styled.section`
