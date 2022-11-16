@@ -9,7 +9,7 @@ export const ContainerTabela = styled.div`
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 2rem 4.6rem;
+  padding: 3rem;
   margin: 1rem;
 
   ul {
@@ -18,11 +18,16 @@ export const ContainerTabela = styled.div`
     width: auto;
     height: 100%;
     align-items: flex-start;
+    padding: 0 2rem;
+    flex-wrap: wrap;
+    list-style: none;
 
     height: 160px;
 
     li {
-      font-size: 1.7rem;
+      font-size: 1.3rem;
+      margin: 0 1rem;
+      padding-left: 1rem;
     }
   }
 `;
