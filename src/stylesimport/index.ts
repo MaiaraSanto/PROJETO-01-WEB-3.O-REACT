@@ -4,6 +4,6 @@ export type IProps = {
   languages: (text: string) => void;
 };
 
-export type IFooter = {
+export type IClick = {
   languages: (texto: string) => void;
 };

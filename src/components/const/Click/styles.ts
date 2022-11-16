@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const ContainerFooter = styled.footer`
+export const ContainerClick = styled.footer`
   width: 100vw;
   height: 5.2rem;
   /* background-color: red; */
@@ -9,4 +9,5 @@ export const ContainerFooter = styled.footer`
   align-items: center;
   position: absolute;
   bottom: 0;
+  
 `;

@@ -1,8 +1,8 @@
 import { useState } from "react";
-import { Footer } from "../../shared/components/Footer";
-import { Header } from "../../shared/components/Header";
-import { TechList } from "../../shared/components/Lista";
-import { Container_content, ResumoProfissional } from "./styled";
+import { Click} from "../../components/const/Click";
+import { Header } from "../../components/const/Header";
+import { TechTabela } from "../../components/const/Tabela";
+import { Container_content, ResumoProfissional } from "./styles";
 
 
 
@@ -21,9 +21,9 @@ export const Home = () => {
 
     const handleLanguage=(Text:string) => {
         
-        if (Text == 'Brasil') {
+        if (Text == 'Português') {
             setLanguage(idioma[0].pt) 
-        } else if (Text == 'Espanhol') {
+        } else if (Text == 'Español') {
             setLanguage(idioma[0].es)
         } else {
             setLanguage(idioma[0].en)  
@@ -38,9 +38,9 @@ export const Home = () => {
             <ResumoProfissional>
                     {language}
             </ResumoProfissional>
-            <TechList/>
+            <TechTabela/>
            </Container_content>
-            <Footer languages={handleLanguage} />
+            <Click languages={handleLanguage} />
            
         </>
 

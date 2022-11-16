@@ -1,5 +1,5 @@
-import { ContainerHeader, ContainerLogo } from "./styled";
-import Logo from "../../../assets/images/image1.png";
+import { ContainerHeader, ContainerLogo} from "./styles";
+import Logo from "../../../assets/images/stack.png";
 
 export const Header = () => {
   return (

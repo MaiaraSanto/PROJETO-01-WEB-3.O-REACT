@@ -7,7 +7,6 @@ export const ContainerHeader = styled.header`
   display: flex;
   justify-content: center;
   align-items: center;
-
   border: 1px solid #9d4b00;
 `;
 
@@ -20,6 +19,5 @@ export const ContainerLogo = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-
   border: 1px solid #9d4b00;
 `;

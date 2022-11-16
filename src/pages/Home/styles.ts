@@ -2,16 +2,17 @@ import styled from "styled-components";
 
 export const ResumoProfissional = styled.h1`
 
-width: 791px;
-height: 76px;
+width: 991px;
+height: 90px;
 left: 325px;
 top: 168px;
 
 font-family: 'Inter';
 font-style: normal;
-font-weight: 500;
-font-size: 27px;
+font-weight: 600;
+font-size: 26px;
 line-height: 160%;
+font-size: 2.1rem;
 /* or 38px */
 
 text-align: center;
