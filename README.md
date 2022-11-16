@@ -10,9 +10,7 @@ Editech StackX`. O conceito destas aplicações,  serão três  Single Page Apli
  
  `Angular`,`Vue.js`</i>. Cada uma foi estruturada dentro de suas particularidades e seus conceitos utilizados 
  
- conforme a demanda dos Frameworks, Bibliotecas e Linguagens manuseados. Estarei apresentando o primeiro Projeto 
- 
- feito em React
+ conforme a demanda dos Frameworks, Bibliotecas e Linguagens manuseados. Estarei apresentando o primeiro Projeto feito em React
  
  <br>
  
