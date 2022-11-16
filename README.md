@@ -4,13 +4,15 @@
 
 </div>
 
-🌐 Trago-lhe aqui três Projetos que faz parte do Módulo Web 3.0 do curso para `Desenvolvedor Full Stack da Editech StackX`. 
+🌐 Trago-lhe aqui três Projetos que faz parte do Módulo Web 3.0 do curso para `Desenvolvedor Full Stack da 
 
-O conceito destas aplicações,  serão três  Single Page Aplication, aplicadas em <i>`React`,`Angular`,`Vue.js`</i>. Cada uma foi 
-
-estruturada dentro de suas particularidades e seus conceitos utilizados conforme a demanda dos Frameworks, Bibliotecas e Linguagens 
-
-manuseados. Estarei apresentando o primeiro Projeto feito em React
+Editech StackX`. O conceito destas aplicações,  serão três  Single Page Aplication, aplicadas em <i>`React`,
+ 
+ `Angular`,`Vue.js`</i>. Cada uma foi estruturada dentro de suas particularidades e seus conceitos utilizados 
+ 
+ conforme a demanda dos Frameworks, Bibliotecas e Linguagens manuseados. Estarei apresentando o primeiro Projeto 
+ 
+ feito em React
  
  <br>
  
@@ -36,7 +38,7 @@ manuseados. Estarei apresentando o primeiro Projeto feito em React
   
   <br>
   
-  # <div align="center">💻 [Clique aqui para acessar o Projeto](https://desafiostack-react.netlify.app/)
+  # <div align="center">💻 [Clique aqui para acessar o Projeto](https://desafioweb30-react.netlify.app/)
    
    ***
    
