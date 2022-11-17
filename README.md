@@ -8,9 +8,9 @@
 
    O conceito destas aplicações,  serão três  Single Page Aplication, aplicadas em <i>`React`,`Angular`,`Vue.js`</i>. 
 
-   Cada uma foi estruturada dentro de suas particularidades e seus conceitos utilizados  conforme a demanda dos Frameworks,Bibliotecas e 
+   Cada uma foi estruturada dentro de suas particularidades e seus conceitos utilizados  conforme a demanda dos Frameworks,Bibliotecas e Linguagens manuseados. Estarei 
    
-   Linguagens manuseados. Estarei apresentando o primeiro Projeto feito em React
+   apresentando o primeiro Projeto feito em React
  
  <br>
  
