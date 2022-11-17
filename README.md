@@ -30,13 +30,9 @@ três  Single Page Aplication, aplicadas em <i>`React`,`Angular`,`Vue.js`</i>. C
  
  # 🌐 Desafio 01 React
  
- <div align="center">
- 
  ➡ Esta aplicação foi construida em `Reactts`, utilizando a plataforma `Vitets` que é um bundler, onde  
  consegue usar compiladores e frameworks direto  da caixa,  além da criação de hot module e replacement dentro 
   do Projeto.
- 
- </div>
   
   <br>
   
