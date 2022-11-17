@@ -9,27 +9,9 @@
  🌐 Trago-lhe aqui três Projetos que faz parte do Módulo Web 3.0 do curso para `Desenvolvedor Full Stack da Editech StackX`. O conceito destas aplicações, serão 
 três  Single Page Aplication, aplicadas em <i>`React`,`Angular`,`Vue.js`</i>. Cada uma foi estruturada dentro de suas particularidades e seus conceitos utilizados  conforme a demanda dos Frameworks, Bibliotecas e Linguagens manuseados. 
  Estarei apresentando aqui o primeiro Projeto feito em React. 
- 
- 
- 
-
- 
- <br>
- 
-# <div align="center">💻 [Clique aqui para acessar o Portal](https://stackx.com.br/)
- 
- 
- 
+  
  ***
- 
- <img src="./stack.jpg" align="center" height="350em" width="150%">
- 
- </div>
- 
- ***
- 
- 
- 
+  
  # 🌐 Desafio 01 React
  
  ➡ Esta aplicação foi construida em `Reactts`, utilizando a plataforma `Vitets` que é um bundler, onde  
