@@ -23,6 +23,10 @@ a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da co
    
    ***
    
+  # 🌐 Passo a Passo da contrução do Projeto
+    
+    
+   
    ### 🌐 Criação do Projeto
    
 ➡ ```create vite @latest```, utilizado no PowerShell sendo uma ferramenta de linha de comando que ajuda a interagir complataforma online, navegadores e servidores.
