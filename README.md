@@ -8,10 +8,17 @@
 a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da construção destes Projeos será uma lista com as tecnologias a qual tem experiência, onde será feito um array no HTML e a inserção de um map para listar. Ao clicar no botão de linguagem o texto de apresentação ”Olá meu nome....” mudará para a linguagem selecionada. O botão de linguagem deve ser um componente onde passará 3 propriedades: Título, ícone e o click dele. Estarei apresentando aqui o primeiro Projeto feito em React. 
   
  ***
+   
+  # 🌐 Entendendo sobre o conceito React
   
- # 🌐 Desafio 01 React
+ ➡ O React é a biblioteca mais popular do JavaScript e é usada para construir uma interface de usuário (IU). Ela oferece uma resposta excelente para o usuário adicionar comandos usando um novo método de renderizar sites. Os componentes dessa ferramenta foram desenvolvidos pelo Facebook. Ela foi lançada em 2013 como uma ferramenta JavaScript de código aberto. Atualmente, ela permanece na frente das suas principais competidoras, como a Angular e a Bootstrap, sendo a bibliotecas mais vendida e a mais utilizada do JavaScript.  
+ 
+ ***
+ 
+  # 🌐 Desafio 01 React
  
  ➡ Esta aplicação foi construida em `Reactts`, utilizando a plataforma `Vitets` que é um bundler, onde consegue usar compiladores e frameworks direto  da caixa, além da criação de hot module e replacement dentro do Projeto.
+
   
   <br>
   
