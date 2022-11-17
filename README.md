@@ -1,6 +1,6 @@
 <div align="center">
  
- # DESAFIO STACKX
+ # DESAFIO WEB 3.0 STACKX
 
 </div>
 
