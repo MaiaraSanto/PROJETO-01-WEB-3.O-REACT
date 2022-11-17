@@ -5,7 +5,7 @@
 </div>
 
 🌐 Trago-lhe aqui três Projetos que faz parte do Módulo Web 3.0 do curso para `Desenvolvedor Full Stack da Editech StackX`. O conceito destas aplicações, serão três Single Page Aplication, aplicadas em <i>`React`,`Angular`,`Vue.js`</i>. Cada uma foi estruturada dentro de suas particularidades e seus conceitos utilizados conforme 
-a demanda dos Frameworks, Bibliotecas e Linguagens manuseados. Estarei apresentando aqui o primeiro Projeto feito em React. 
+a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da construção destes Projeos será uma lista com as tecnologias a qual tem experiência, onde será feito um array no HTML e a inserção de um map para listar. Ao clicar no botão de linguagem o texto de apresentação ”Olá meu nome....” mudará para a linguagem selecionada. O botão de linguagem deve ser um componente onde passará 3 propriedades: Título, ícone e o click dele. Estarei apresentando aqui o primeiro Projeto feito em React. 
   
  ***
   
@@ -65,9 +65,13 @@ automaticamente os erros.
 ➡ ``` npm install axios```, que é um `cliente HTTP`, baseado em promises para fazer requisições, podendo ser utilizado tanto no navegador, quanto no Node.js.
 
 #
+    
+### 🌐 Conceito de Props
  
+➡`` PROPS`` é um objeto  com dados que retorna um elemento React. Chama-se `Components de função`, porque são literalmente  atribuição ao JavaScript. São argumentos para uma funcionalidade dentro de um component react e rendeiriza os parâmetros que  deseja dar a ele. Ao clicar nos botões contendo os Países, necessita mostrar na tela os seus respectivos idiomas e para isto é necessário passar um bjeto dentro da Props para que este retorne um artefato para fazer a funcionalidade de três premissas: título, ícone e click. 
+
+#
+
 # 🌐 Informações adicionais
-   
-### 🌐 Props
- 
-➡`` PROPS`` é um objeto  com dados que retorna um elemento React. Chama-se `Components de função`, porque são literalmente  atribuição ao JavaScript. São argumentos para uma funcionalidade dentro de um component react e  rendeiriza os parâmetros que  deseja dar a ele.
+
+
