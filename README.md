@@ -72,6 +72,9 @@ automaticamente os erros.
 
 #
 
-# 🌐 Informações adicionais
+### 🌐 Desenvolvimento Local
+
+➡ A masterramificação contém a versão mais recente do styled componente. Para iniciar o desenvolvimento local: ``yarn run dev`` e ``yarn start``a última etapa inicia o aplicativo de documentação como um servidor web simples em http://localhost:127 .
+Podemos executar ``yarn test`` para executar o conjunto de testes e linters. Para ajudá-lo a desenvolver o componente, configuramos alguns testes que cobrem a funcionali- dade básica (podem ser encontrados em /tests). Embora testes seja prioridade, isso abrange apenas uma pequena parte do componente. É altamente recomendável adicionar  testes ao adicionar novas funcionalidades.
 
 
