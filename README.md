@@ -67,7 +67,7 @@ automaticamente os erros.
  
 ###  Instalendo o ícone do Projeto
    
-- ``` npm add @types/styled-components -D```, Utiliza este comando no Projeto, apropriando e depurando um determinado  caso de uso, formatando os components e dando rollup para construir o Package .
+- ``` npm add @types/styled-components -D```, Utiliza este comando no Projeto, apropriando e depurando um determinado  caso de uso, formatando os components e dando rollup para construir o Package.
 
 #
  
