@@ -22,7 +22,7 @@ a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da co
   
   <br>
   
-  # <div align="center">💻 [Clique aqui para acessar o Projeto](https://desafioweb30-react.netlify.app/)
+  ### <div align="center"> [Clique aqui para acessar o Projeto](https://desafioweb30-react.netlify.app/)
    
    ***
    
