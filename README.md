@@ -36,7 +36,7 @@ a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da co
    
    ###  Criação do Projeto
    
-- ```create vite @latest```, utilizado no PowerShell sendo uma ferramenta de linha de comando que ajuda a interagir complataforma online, navegadores e servidores.
+- ```create vite @latest```, utilizado no PowerShell sendo uma ferramenta de linha de comando que ajuda a interagir com plataforma online, navegadores e servidores.
 
 #
  
@@ -76,16 +76,22 @@ automaticamente os erros.
 - ``` npm install axios```, que é um `cliente HTTP`, baseado em promises para fazer requisições, podendo ser utilizado tanto no navegador, quanto no Node.js.
 
 #
+
+###  Desenvolvimento Local
+
+- A masterramificação contém a versão mais recente do styled componente. Para iniciar o desenvolvimento local: ``yarn run dev`` e ``yarn start``a última etapa inicia o aplicativo de documentação como um servidor web simples em http://localhost:127 .
+
+#
+
+###  Executando yarn test
+
+- Podemos executar ``yarn test`` para executar o conjunto de testes e linters. Para ajudá-lo a desenvolver o componente, configuramos alguns testes que cobrem a funcionalidade básica (podem ser encontrados em /tests). Embora testes seja prioridade, isso abrange apenas uma pequena parte do componente. É altamente recomendável adicionar  testes ao adicionar novas funcionalidades.
+
+#
     
 ###  Conceito de Props
  
 - `` PROPS`` é um objeto  com dados que retorna um elemento React. Chama-se `Components de função`, porque são literalmente  atribuição ao JavaScript. São argumentos para uma funcionalidade dentro de um component react e rendeiriza os parâmetros que  deseja dar a ele. Ao clicar nos botões contendo os Países, necessita mostrar na tela os seus respectivos idiomas e para isto é necessário passar um bjeto dentro da Props para que este retorne um artefato para fazer a funcionalidade de três premissas: título, ícone e click. 
 
-#
-
-###  Desenvolvimento Local
-
-- A masterramificação contém a versão mais recente do styled componente. Para iniciar o desenvolvimento local: ``yarn run dev`` e ``yarn start``a última etapa inicia o aplicativo de documentação como um servidor web simples em http://localhost:127 .
-Podemos executar ``yarn test`` para executar o conjunto de testes e linters. Para ajudá-lo a desenvolver o componente, configuramos alguns testes que cobrem a funcionali- dade básica (podem ser encontrados em /tests). Embora testes seja prioridade, isso abrange apenas uma pequena parte do componente. É altamente recomendável adicionar  testes ao adicionar novas funcionalidades.
 
 
