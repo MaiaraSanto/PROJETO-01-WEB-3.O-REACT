@@ -42,7 +42,7 @@ a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da co
  
 ###  Abrir o Projeto no Terminal
    
-- ```code .```, Aplicar este comando no PowerShell para ter acesso ao Projeto no VsCode.
+- ```code .```, Aplicar este comando no PowerShell, para ter acesso ao Projeto no VsCode.
 
 #
 
