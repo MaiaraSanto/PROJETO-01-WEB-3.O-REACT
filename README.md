@@ -26,7 +26,7 @@ a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da co
    
    ***
    
-   <img src="r.png" align="center" height="500em" width="100%" href="https://desafioweb30-react.netlify.app/"> 
+   <img src="rr.png" align="center" height="500em" width="100%" href="https://desafioweb30-react.netlify.app/"> 
    
    ***
    
