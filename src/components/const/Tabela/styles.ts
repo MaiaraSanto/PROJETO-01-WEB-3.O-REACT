@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const ContainerTabela = styled.div`
-width: 70rem;
+width: 66rem;
   height: 15rem;
   background: #27272a;
   border: 2px solid #9d4b00;
@@ -20,7 +20,7 @@ width: 70rem;
             list-style: none
             width: 100%
             height: 100%
-            padding: 0 4px
+            padding: 0 2rem
             align-items: flex-start
             flex-wrap: wrap
             height: 150px;
