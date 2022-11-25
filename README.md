@@ -36,7 +36,7 @@ a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da co
    
    ###  Criação do Projeto
    
-- ```create vite @latest```, utilizado no PowerShell sendo uma ferramenta de linha de comando que ajuda a interagir com plataforma online, navegadores e servidores.
+- ```create vite @latest```, utilizado no PowerShell sendo uma ferramenta de linha de comando que ajuda a interagir com a plataforma online, navegadores e servidores.
 
 #
  
@@ -55,7 +55,7 @@ automaticamente os erros.
  
 ###  Executando o comando NPM
  
-- ```npm install ```, NPM (Node Package Manager) é um controle onde iremos instalar o gerenciador de dependências e seus pacotes, através de linhas de comandos, interagindo com o repositório existente.
+- ```npm install ```, NPM (Node Package Manager) é um controle onde iremos instalar o gerenciador de dependências e seus pacotes, através de linhas de comandos, interagindo- o com o repositório existente.
 
 #
  
@@ -65,9 +65,9 @@ automaticamente os erros.
  
  #
  
-###  Instalendo o ícone do Projeto
+###  Instalando o ícone do Projeto
    
-- ``` npm add @types/styled-components -D```, Utiliza este comando no Projeto, apropriando e depurando um determinado  caso de uso, formatando os components e dando rollup para construir o Package.
+- ``` npm add @types/styled-components -D```, Utiliza este comando no Projeto, apropriando e depurando um determinado caso de uso, formatando os components e dando rollup para construir o Package.
 
 #
  
@@ -79,7 +79,7 @@ automaticamente os erros.
 
 ###  Desenvolvimento Local
 
-- A masterramificação contém a versão mais recente do styled componente. Para iniciar o desenvolvimento local: ``yarn run dev`` e ``yarn start``a última etapa inicia o aplicativo de documentação como um servidor web simples em http://localhost:127 .
+- A masterramificação contém a versão mais recente do styled componente. Para iniciar o desenvolvimento local: ``yarn run dev`` e ``yarn start``a última etapa inicia o aplicativo de documentação como um servidor web simples em http://127.0.0.1:5173/ .
 
 #
 
@@ -91,7 +91,7 @@ automaticamente os erros.
     
 ###  Conceito de Props
  
-- `` PROPS`` é um objeto  com dados que retorna um elemento React. Chama-se `Components de função`, porque são literalmente  atribuição ao JavaScript. São argumentos para uma funcionalidade dentro de um component react e rendeiriza os parâmetros que  deseja dar a ele. Ao clicar nos botões contendo os Países, necessita mostrar na tela os seus respectivos idiomas e para isto é necessário passar um bjeto dentro da Props para que este retorne um artefato para fazer a funcionalidade de três premissas: título, ícone e click. 
+- `` PROPS`` é um objeto  com dados que retorna um elemento React. Chama-se `Components de função`, porque são literalmente  atribuição ao JavaScript. São argumentos para uma funcionalidade dentro de um component react e rendeiriza os parâmetros que  deseja dar a ele. Ao clicar nos botões contendo os Países, necessita mostrar na tela os seus respectivos idiomas e para isto é necessário passar um objeto dentro da Props para que este retorne um artefato para fazer a funcionalidade de três premissas: título, ícone e click. 
 
 
 
