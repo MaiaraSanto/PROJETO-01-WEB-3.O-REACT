@@ -17,7 +17,7 @@ a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da co
  
   #  Desafio 01 React
  
-  Esta aplicação foi construida em `Reactts`, utilizando a plataforma `Vitets` que é um bundler onde consegue usar compiladores e frameworks direto  da caixa, além da criação de hot module e replacement dentro do Projeto.
+  Esta aplicação foi construida em `Reactts`, utilizando a plataforma `Vitets` que é um bundler onde consegue usar compiladores e frameworks direto da caixa, além da criação de hot module e replacement dentro do Projeto.
 
   
   <br>
