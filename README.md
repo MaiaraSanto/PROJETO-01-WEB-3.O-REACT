@@ -30,7 +30,7 @@ a demanda dos Frameworks, Bibliotecas e Linguagens manuseadas.A intenção da co
    
    ***
    
-  #  Passo a Passo da contrução do Projeto
+  #  Passo a Passo da construção do Projeto
     
     
    
